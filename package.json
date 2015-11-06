@@ -1,0 +1,8 @@
+{
+  "name": "oboe-test",
+  "version": "0.0.1",
+  "dependencies": {
+    "oboe": "^2.1.2"
+  },
+  "repository": "git@github.com:ryan-williams/oboe-test.git"
+}
